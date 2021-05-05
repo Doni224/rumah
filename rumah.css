@@ -318,6 +318,23 @@ letter-spacing: 0.025em;
 color: #000000;
 }
 
+.c {
+    display: block;
+}
+
+.d {
+    display: none;
+}
+
+@media only screen and (max-width: 800px) {
+    .c {
+        display: none;
+    }
+    .d {
+        display: block;
+    }
+}
+
 #gallery img {
     width:auto;
     height: 400px;
