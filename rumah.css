@@ -1,0 +1,414 @@
+body{
+    background-color:#E5E5E5;
+}
+.utama {
+position: absolute;
+width: 1289px;
+height: 100px;
+left: 0px;
+top: 0px;
+background: #FFFFFF;
+}
+.utama img{
+position: absolute;
+width: 78px;
+height: 75px;
+left: 50px;
+top: 15px;
+border-radius: 101px;
+}
+.utama li{
+   list-style: none;
+  float:left ;
+  text-align: center;
+ }
+ .utama li a{
+    color: black;
+    line-height: 80px;
+    text-decoration: none;
+    padding: 20px;
+    font-weight: bold;
+    top:40px;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 20px;
+    
+ }
+ .utama button{
+     background-color: red;
+     color: white;
+    position: absolute;
+    width: 100px;
+    height: 41px;
+    left: 1039px;
+    top: 28px;
+    border-radius: 10px;
+    font-style: initial;
+ }
+ .rumah img{
+    position: absolute;
+    width: 1286px;
+    height: 562px;
+    left: 2px;
+    top: 100px;   
+}
+.rumah .transparan{
+position: absolute;
+width: 1289px;
+height: 563px;
+left: 0px;
+top: 100px;
+background: rgba(0, 0, 0, 0.29);
+}
+ .transparan h4{
+    position: absolute;
+    width: 691px;
+    left: 406px;
+    top: 181px;
+    font-family: Lato;
+font-size: 42px;
+color: white;
+}
+.transparan p{
+position: absolute;
+width: 439px;
+height: 22px;
+left: 442px;
+top: 279px;
+color: #FFFFFF;
+opacity: 0.8;
+}
+.profil{
+position: absolute;
+width: 1290px;
+height: 589px;
+left: 0px;
+top: 664px;
+background: #ffffff;
+}
+.profil img{
+position: absolute;
+width: 308px;
+height: 295px;
+left: 821px;
+top: 110px;
+border-radius: 179px;
+}
+.profil h2{
+position: absolute;
+width: 230px;
+height: 38px;
+left: 582px;
+top: 26px;
+color: rgb(78, 70, 70);
+}
+.profil p{
+position: absolute;
+width: 596px;
+height: 216px;
+left: 102px;
+top: 80px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+
+/* or 27px */
+letter-spacing: 0.025em;
+
+color: #272525;
+
+opacity: 0.9;
+}
+.kls{
+    position: absolute;
+    width: 999px;
+    height: 493px;
+    left: 150px;
+    top: 1253px;
+    background-color: #E5E5E5;
+}
+.kls h2{
+position: absolute;
+width: 248px;
+height: 38px;
+left: 421px;
+top: 12px;
+font-family: Roboto;
+font-style: normal;
+line-height: 3px;
+/* identical to box height */
+letter-spacing: 0.025em;
+color: #000000;
+}
+.kls .tahsin{
+    position: absolute;
+width: 224px;
+height: 324px;
+left: 34px;
+top: 113px;
+background-color: #E5E5E5;
+border-radius: 8px;
+}
+.tahsin img{
+position: absolute;
+width: 125px;
+height: 90px;
+left: 45px;
+top: 32px;
+border-radius: 10px;
+}
+.kls h3{
+    position: absolute;
+    width: 480px;
+    height: 80px;
+    left: 39px;
+    top: 120px;
+}
+.tahsin p{
+    position: absolute;
+    width: 430px;
+    height: 80px;
+    top: 159px;
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: 17px;
+font-size: 14px;
+color: #000000;
+opacity: 0.5;
+}
+.kls .kajian{
+position: absolute;
+width: 216px;
+height: 324px;
+left: 275px;
+top: 113px;
+background-color: #E5E5E5;
+border-radius: 8px;
+}
+.kajian img{
+position: absolute;
+width: 125px;
+height: 90px;
+left: 45px;
+top: 32px;
+border-radius: 10px;
+}
+.kajian h2{
+    position: absolute;
+    width: 480px;
+    height: 80px;
+    left: 3px;
+    top: 130px;
+}
+.kajian p{
+    position: absolute;
+    width: 430px;
+    height: 80px;
+    top: 159px;
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: 17px;
+font-size: 14px;
+color: #000000;
+opacity: 0.5;
+}
+.kls .dauroh{
+    position: absolute;
+    width: 224px;
+    height: 324px;
+    left: 507px;
+    top: 113px;
+    background-color: #E5E5E5;
+    border-radius: 8px;
+}
+.dauroh img{
+    position: absolute;
+    width: 125px;
+    height: 90px;
+    left: 45px;
+    top: 32px;
+    border-radius: 10px;
+}
+.dauroh h2{
+    position: absolute;
+    width: 480px;
+    height: 80px;
+    left: 59px;
+    top: 130px;
+    
+}
+.dauroh P{
+    position: absolute;
+    width: 430px;
+    height: 80px;
+    top: 159px;
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: 17px;
+font-size: 14px;
+color: #000000;
+opacity: 0.5;
+}
+.kls .part{
+position: absolute;
+width: 216px;
+height: 324px;
+left: 750px;
+top: 114px;
+background-color: #E5E5E5;
+border-radius: 8px;
+}
+.part img{
+    position: absolute;
+    width: 125px;
+    height: 90px;
+    left: 45px;
+    top: 32px;
+    border-radius: 10px;
+}
+.part h2{
+    position: absolute;
+    width: 280px;
+    height: 100px;
+    left: 5px;
+    top: 130px;
+}
+.part p{
+    position: absolute;
+    width: 230px;
+    height: 80px;
+    top: 159px;
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: 17px;
+font-size: 14px;
+color: #000000;
+opacity: 0.5;
+}
+.gal{
+    position: absolute;
+width: 1286px;
+height: 873px;
+top: 2070px;
+
+background: #FFFFFF;
+}
+.gal h2{
+    position: absolute;
+width: 99px;
+height: 38px;
+left: 551px;
+top: 23px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 38px;
+
+/* identical to box height */
+letter-spacing: 0.025em;
+
+color: #000000;
+}
+
+#gallery img {
+    width:auto;
+    height: 400px;
+}
+
+.gb1 img{
+ position: absolute;
+width: 371px;
+height: 245px;
+left: 65px;
+top:100px;
+}
+.gb2 img{
+    position: absolute;
+    width: 371px;
+    height: 245px;
+    left: 449px;
+    top:100px;
+}
+.gb3 img{
+    position: absolute;
+    width: 371px;
+    height: 245px;
+    left: 834px;
+    top:100px;
+}
+.gb4 img{
+    position: absolute;
+    width: 371px;
+    height: 245px;
+    left: 65px;
+    top:359px;
+}
+.gb5 img{
+    position: absolute;
+    width: 371px;
+    height: 245px;
+    left: 449px;
+    top:359px;
+}
+.gb6 img{
+    position: absolute;
+    width: 371px;
+    height: 245px;
+    left: 834px;
+    top:359px;
+}
+.gb7 img{
+    position: absolute;
+width: 371px;
+height: 245px;
+left: 65px;
+top:620px;
+}
+.gb8 img{
+    position: absolute;
+    width: 371px;
+    height: 245px;
+    left: 449px;
+    top:620px;
+}
+.gb9 img{
+    position: absolute;
+    width: 371px;
+    height: 245px;
+    left: 834px;
+    top:620px;
+}
+
+.field {
+    margin-bottom: 10px;
+  }
+  
+  .field label {
+    display: block;
+    font-size: 12px;
+    color: #777;
+  }
+  
+  .field input {
+    display: block;
+    min-width: 250px;
+    line-height: 1.5;
+    font-size: 14px;
+  }
+  
+  input[type="submit"] {
+    display: block;
+    padding: 6px 30px;
+    font-size: 14px;
+    background-color: #4460AA;
+    color: #fff;
+    border: none
+  }

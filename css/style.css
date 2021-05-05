@@ -1,0 +1,90 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.navlist li a {
+    transition: .3s ease-in;
+    color: #333;
+}
+
+.navlist li a:hover {
+    transform: scale(1.2);
+    color: red;
+}
+
+#home {
+    width: 100%;
+    height: 100vh;
+
+}
+
+.car {
+    height: 90vh;
+    position: relative;
+    overflow: hidden;
+}
+
+.heading {
+    position: absolute;
+    z-index: 2;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.img-header .img img {
+    width: 100%;
+}
+
+#about h1 {
+    color: #333;
+    font-size: 28px;
+}
+
+#about p {
+    opacity: .5;
+}
+
+#program p {
+    opacity: .7;
+}
+
+.card {
+    height: 450px;
+}
+.kontak {
+    position: absolute;
+width: 1282px;
+height: 501px;
+left: 0px;
+top: 2946px;
+
+background: #d8d7d7;
+}
+
+.con{
+    position: absolute;
+width: 1282px;
+height: 100px;
+left: 0px;
+top: 3430px;
+background: #f8f6f6;
+}
+
+.con .share-konten{
+    margin-top:15px;
+    margin-bottom:10px;
+    width: 62px;
+    height: 52px;
+    position: absolute;
+    left: 500px;}
+.con .icon{
+    margin-top:px;
+    margin-bottom:10px;
+    width: 62px;
+    height: 42px;
+    position: absolute;
+    left: 180px;}
